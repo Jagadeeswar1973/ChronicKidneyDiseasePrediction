@@ -1,0 +1,9 @@
+ChronicKidneyDiseasePrediction is a robust machine learning project designed to predict the likelihood of chronic kidney disease using patient data. The project features:
+
+
+Key Features:
+Data Processing: Efficient handling and preprocessing of patient data.
+Machine Learning Model: Training and saving the model using scikit-learn.
+Model Deployment: Deploying the model with Flask for real-time predictions.
+Detailed Documentation: In-depth explanations and code comments for clarity.
+Interactive Notebooks: Jupyter notebooks for experimentation and deployment.
